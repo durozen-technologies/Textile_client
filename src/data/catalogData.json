@@ -1,0 +1,1646 @@
+{
+  "heroes": [
+    {
+      "id": "01a13931-82ad-7ee4-9a26-c6080072b5b1",
+      "heading": "Women with heritage.",
+      "description": "Discover timeless silk sarees rooted in craftsmanship, reimagined for the way you celebrate today.",
+      "cta_text": "Explore Collection",
+      "cta_url": "/collections",
+      "image_url": "/hero/b6c8853d-eb8b-4a62-948c-909561fd4823.png",
+      "display_order": 0,
+      "is_active": true
+    },
+    {
+      "id": "01a13940-215e-7323-88ff-2f19dc1d1f6e",
+      "heading": "Timeless Silk Collection 2",
+      "description": "Discover timeless silk sarees rooted in craftsmanship, reimagined for the way you celebrate today.",
+      "cta_text": "Explore Collection",
+      "cta_url": "/collections",
+      "image_url": "/hero/c2dac014-9762-42c1-98c3-c603330fc1b8.png",
+      "display_order": 1,
+      "is_active": false
+    },
+    {
+      "id": "01a13940-215f-7eea-bb44-b84453922433",
+      "heading": "Timeless Silk Collection 3",
+      "description": "Discover timeless silk sarees rooted in craftsmanship, reimagined for the way you celebrate today.",
+      "cta_text": "Explore Collection",
+      "cta_url": "/collections",
+      "image_url": "/hero/c72ae19b-d07e-43d2-92bd-d0b1156d59d8.png",
+      "display_order": 2,
+      "is_active": false
+    },
+    {
+      "id": "01a13940-2160-7029-b4b0-d24655d6e473",
+      "heading": "Timeless Silk Collection 4",
+      "description": "Discover timeless silk sarees rooted in craftsmanship, reimagined for the way you celebrate today.",
+      "cta_text": "Explore Collection",
+      "cta_url": "/collections",
+      "image_url": "/hero/dafc94b9-dcb0-4080-a670-049cd409f44b.png",
+      "display_order": 3,
+      "is_active": false
+    },
+    {
+      "id": "01a13940-2161-796f-849c-64201a83af52",
+      "heading": "Timeless Silk Collection 5",
+      "description": "Discover timeless silk sarees rooted in craftsmanship, reimagined for the way you celebrate today.",
+      "cta_text": "Explore Collection",
+      "cta_url": "/collections",
+      "image_url": "/hero/edc67c30-e1f8-48d9-8063-0c2cd6c654ff.png",
+      "display_order": 4,
+      "is_active": false
+    }
+  ],
+  "categories": [
+    {
+      "id": "01a0f0c8-185a-7b48-88b1-142cd8177fc4",
+      "name": "Banarasi Silk",
+      "product_type": "Heritage",
+      "saree": "Banarasi Silk Saree",
+      "description": "Opulent brocade and intricate floral motifs inspired by the ghats of Varanasi.",
+      "image_url": "/categories/01a0f0c8-185a-7b48-88b1-142cd8177fc4/f12eaa8d-3046-4439-bbce-7169f06996b6.jpg",
+      "is_active": true
+    },
+    {
+      "id": "01a101d1-7a39-70ae-8994-fa4cbd865a2c",
+      "name": "Bridal Heritage",
+      "product_type": "Bridal",
+      "saree": "Bridal Silk Saree",
+      "description": "Grand heirloom bridal sarees woven for weddings and life's finest milestones.",
+      "image_url": "/categories/01a101d1-7a39-70ae-8994-fa4cbd865a2c/9e1a9ff0-aa1f-4ed0-bb97-55a217592f0e.jpg",
+      "is_active": true
+    },
+    {
+      "id": "01a101c0-55ca-7a9b-92c9-d159f9256093",
+      "name": "Chanderi Silk",
+      "product_type": "Craft",
+      "saree": "Chanderi Silk Saree",
+      "description": "Lightweight weave blending silk and zari from historic Chanderi looms.",
+      "image_url": "/categories/01a101c0-55ca-7a9b-92c9-d159f9256093/96dadb50-7b1d-4c3e-bb0d-b57c5b8dd87e.jpg",
+      "is_active": true
+    },
+    {
+      "id": "01a0e72e-2057-7d19-812e-85554cb643ef",
+      "name": "Kanchipuram Silk",
+      "product_type": "Traditional",
+      "saree": "Kanchipuram Silk Saree",
+      "description": "Handwoven temple borders and rich pure zari pallus crafted in Kanchipuram.",
+      "image_url": "/categories/01a0e72e-2057-7d19-812e-85554cb643ef/f4d7b8a9-54e1-4ef9-a0c4-d9ed59dffd81.jpg",
+      "is_active": true
+    },
+    {
+      "id": "01a101c6-43ea-7fe3-8a2a-c8bdf89cf4b5",
+      "name": "Mysore Silk",
+      "product_type": "Royal",
+      "saree": "Mysore Silk Saree",
+      "description": "Unmatched smooth texture, solid colors, and royal gold zari borders.",
+      "image_url": "/categories/01a101c6-43ea-7fe3-8a2a-c8bdf89cf4b5/6a8d31f3-3734-4f68-a423-eb36e64e64c3.png",
+      "is_active": true
+    },
+    {
+      "id": "01a0fc15-f9f8-731c-b4e0-927f766da3b3",
+      "name": "Organza Silk",
+      "product_type": "Modern",
+      "saree": "Organza Silk Saree",
+      "description": "Crisp, sheer organza weaves embroidered with dainty floral zari vines.",
+      "image_url": "/categories/01a0fc15-f9f8-731c-b4e0-927f766da3b3/65b73c76-db6c-41b4-b10e-1ee37271d15c.jpg",
+      "is_active": true
+    },
+    {
+      "id": "01a0f0c8-7b16-77c9-bfa2-3f504c70d54e",
+      "name": "Pure Silk",
+      "product_type": "Classic",
+      "saree": "Pure Silk Saree",
+      "description": "100% natural silk sarees stamped with authenticated Silk Mark certification.",
+      "image_url": "/categories/01a0f0c8-7b16-77c9-bfa2-3f504c70d54e/5b2b0ac4-8bcd-4a4d-a42a-7d7991613a24.jpg",
+      "is_active": true
+    },
+    {
+      "id": "01a0f0c8-5505-76d4-a217-f42e0d353641",
+      "name": "Soft Silk",
+      "product_type": "Contemporary",
+      "saree": "Soft Silk Saree",
+      "description": "Featherlight pure silk draping with subtle sheen for festivals and ceremonies.",
+      "image_url": "/categories/01a0f0c8-5505-76d4-a217-f42e0d353641/e6662692-6c55-4053-af2e-6c7f8fc378ab.jpg",
+      "is_active": true
+    },
+    {
+      "id": "01a0f17a-390d-740b-ad8d-fbc144575eb1",
+      "name": "Tussar Silk",
+      "product_type": "Handloom",
+      "saree": "Tussar Silk Saree",
+      "description": "Rich textured wild silk with natural earthy luster and artisanal motifs.",
+      "image_url": "/categories/01a0f17a-390d-740b-ad8d-fbc144575eb1/e069ea5b-f90b-40a6-8dd8-411799b10c20.jpg",
+      "is_active": true
+    }
+  ],
+  "products": [
+    {
+      "id": "01a0eb86-29c0-7aa0-8c15-b234fd16fabd",
+      "name": "Aaradhya Crimson Kanchipuram",
+      "description": "Aaradhya Crimson Kanchipuram is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for wedding celebrations and cherished wedding rituals.",
+      "category_id": "01a0e72e-2057-7d19-812e-85554cb643ef",
+      "price": 18500.0,
+      "mrp": 22000.0,
+      "discount_percentage": 15.91,
+      "color": "Red",
+      "occasion": "Wedding",
+      "fabric_weight": "Heavy",
+      "border_style": "Traditional Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": true,
+      "is_best_seller": false,
+      "is_editor_pick": true,
+      "variants": [
+        {
+          "id": "01a13939-948f-752d-80ea-819bc7b0ee60",
+          "product_id": "01a0eb86-29c0-7aa0-8c15-b234fd16fabd",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-RED-101",
+          "price": 18500.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-948b-7fa9-b810-908af9b01df9",
+          "product_id": "01a0eb86-29c0-7aa0-8c15-b234fd16fabd",
+          "image_url": "/products/01a0eb86-29c0-7aa0-8c15-b234fd16fabd/97eb89ac-acb7-4bdc-bcb3-4d7c4b0ff642.jpg",
+          "alt_text": "Aaradhya Crimson Kanchipuram - View 1",
+          "display_order": 0,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "01a0ec5b-fe9f-7fbf-9e7d-a954d828715c",
+      "name": "Swarna Antique Gold Banarasi",
+      "description": "Swarna Antique Gold Banarasi is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for festive celebrations and cherished wedding rituals.",
+      "category_id": "01a0f0c8-185a-7b48-88b1-142cd8177fc4",
+      "price": 16200.0,
+      "mrp": 19500.0,
+      "discount_percentage": 16.92,
+      "color": "Gold",
+      "occasion": "Festive",
+      "fabric_weight": "Medium",
+      "border_style": "Zari Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": false,
+      "is_best_seller": true,
+      "is_editor_pick": false,
+      "variants": [
+        {
+          "id": "01a13939-9499-730d-936d-adb0486bfe6a",
+          "product_id": "01a0ec5b-fe9f-7fbf-9e7d-a954d828715c",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-GOL-102",
+          "price": 16200.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-9498-7246-9f9c-a4cedbc789bf",
+          "product_id": "01a0ec5b-fe9f-7fbf-9e7d-a954d828715c",
+          "image_url": "/products/01a0ec5b-fe9f-7fbf-9e7d-a954d828715c/ec1a8983-3862-49e7-8120-7db6b7364358.jpg",
+          "alt_text": "Swarna Antique Gold Banarasi - View 1",
+          "display_order": 0,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "01a0ec5f-3469-70f4-8312-a9837f98fa28",
+      "name": "Ananya Rose Blush Soft Silk",
+      "description": "Ananya Rose Blush Soft Silk is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for festive celebrations and cherished wedding rituals.",
+      "category_id": "01a0f0c8-5505-76d4-a217-f42e0d353641",
+      "price": 9800.0,
+      "mrp": 12000.0,
+      "discount_percentage": 18.33,
+      "color": "Pink",
+      "occasion": "Festive",
+      "fabric_weight": "Lightweight",
+      "border_style": "Contrast Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": true,
+      "is_best_seller": false,
+      "is_editor_pick": false,
+      "variants": [
+        {
+          "id": "01a13939-949c-7b01-8e8f-03f26a767915",
+          "product_id": "01a0ec5f-3469-70f4-8312-a9837f98fa28",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-PIN-103",
+          "price": 9800.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-949b-7407-b122-620695293812",
+          "product_id": "01a0ec5f-3469-70f4-8312-a9837f98fa28",
+          "image_url": "/products/01a0ec5f-3469-70f4-8312-a9837f98fa28/99e921d3-29bb-4ccb-8482-ace1bf9b33ff.jpg",
+          "alt_text": "Ananya Rose Blush Soft Silk - View 1",
+          "display_order": 0,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "01a0ec6b-a925-759f-a244-9b7cd9b1ac30",
+      "name": "Meenakshi Royal Emerald Silk",
+      "description": "Meenakshi Royal Emerald Silk is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for wedding celebrations and cherished wedding rituals.",
+      "category_id": "01a0f0c8-7b16-77c9-bfa2-3f504c70d54e",
+      "price": 21500.0,
+      "mrp": 26000.0,
+      "discount_percentage": 17.31,
+      "color": "Green",
+      "occasion": "Wedding",
+      "fabric_weight": "Heavy",
+      "border_style": "Temple Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": false,
+      "is_best_seller": false,
+      "is_editor_pick": true,
+      "variants": [
+        {
+          "id": "01a13939-94a1-7ee6-aee9-cb4887b0c43c",
+          "product_id": "01a0ec6b-a925-759f-a244-9b7cd9b1ac30",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-GRE-104",
+          "price": 21500.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-949e-7d7b-b661-f65fac96fed7",
+          "product_id": "01a0ec6b-a925-759f-a244-9b7cd9b1ac30",
+          "image_url": "/products/01a0ec6b-a925-759f-a244-9b7cd9b1ac30/27ebce11-bfe5-4719-8f76-f4936cb0e7cc.png",
+          "alt_text": "Meenakshi Royal Emerald Silk - View 1",
+          "display_order": 0,
+          "is_primary": true
+        },
+        {
+          "id": "01a13939-949f-7427-b50d-beda4f215ac0",
+          "product_id": "01a0ec6b-a925-759f-a244-9b7cd9b1ac30",
+          "image_url": "/products/01a0ec6b-a925-759f-a244-9b7cd9b1ac30/ca9c94ad-2849-4083-8b19-3e2acbfd4991.jpg",
+          "alt_text": "Meenakshi Royal Emerald Silk - View 2",
+          "display_order": 1,
+          "is_primary": false
+        },
+        {
+          "id": "01a13939-94a0-790d-98e5-96102e03bf43",
+          "product_id": "01a0ec6b-a925-759f-a244-9b7cd9b1ac30",
+          "image_url": "/products/01a0ec6b-a925-759f-a244-9b7cd9b1ac30/e26c3695-3b1f-4c29-98e1-20d79295b5af.jpg",
+          "alt_text": "Meenakshi Royal Emerald Silk - View 3",
+          "display_order": 2,
+          "is_primary": false
+        }
+      ]
+    },
+    {
+      "id": "01a0f1e9-5a6a-70f6-831f-7d25d7dfd4d0",
+      "name": "Nandini Midnight Peacock Silk",
+      "description": "Nandini Midnight Peacock Silk is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for reception celebrations and cherished wedding rituals.",
+      "category_id": "01a0f17a-390d-740b-ad8d-fbc144575eb1",
+      "price": 23000.0,
+      "mrp": 28000.0,
+      "discount_percentage": 17.86,
+      "color": "Blue",
+      "occasion": "Reception",
+      "fabric_weight": "Heavy",
+      "border_style": "Korvai Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": true,
+      "is_best_seller": true,
+      "is_editor_pick": false,
+      "variants": [
+        {
+          "id": "01a13939-94a5-73a6-8b49-22075babf081",
+          "product_id": "01a0f1e9-5a6a-70f6-831f-7d25d7dfd4d0",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-BLU-105",
+          "price": 23000.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94a2-7654-b6f7-0d45a0efe19b",
+          "product_id": "01a0f1e9-5a6a-70f6-831f-7d25d7dfd4d0",
+          "image_url": "/products/01a0f1e9-5a6a-70f6-831f-7d25d7dfd4d0/5f005b1f-3218-4d24-a963-16227ed9431b.png",
+          "alt_text": "Nandini Midnight Peacock Silk - View 1",
+          "display_order": 0,
+          "is_primary": true
+        },
+        {
+          "id": "01a13939-94a3-732a-9fe2-681f2c80eda9",
+          "product_id": "01a0f1e9-5a6a-70f6-831f-7d25d7dfd4d0",
+          "image_url": "/products/01a0f1e9-5a6a-70f6-831f-7d25d7dfd4d0/73ec2a0a-7db0-4e9e-aff6-19b7fa121354.jpg",
+          "alt_text": "Nandini Midnight Peacock Silk - View 2",
+          "display_order": 1,
+          "is_primary": false
+        },
+        {
+          "id": "01a13939-94a4-7eb1-b1f5-024105e709b1",
+          "product_id": "01a0f1e9-5a6a-70f6-831f-7d25d7dfd4d0",
+          "image_url": "/products/01a0f1e9-5a6a-70f6-831f-7d25d7dfd4d0/d7b2a562-71b5-437e-8a0e-5cc0d582f1be.png",
+          "alt_text": "Nandini Midnight Peacock Silk - View 3",
+          "display_order": 2,
+          "is_primary": false
+        }
+      ]
+    },
+    {
+      "id": "01a0f32e-c878-75f9-8780-545eb62a494a",
+      "name": "Samyuktha Sunset Rust Brocade",
+      "description": "Samyuktha Sunset Rust Brocade is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for festive celebrations and cherished wedding rituals.",
+      "category_id": "01a0fc15-f9f8-731c-b4e0-927f766da3b3",
+      "price": 14500.0,
+      "mrp": 17000.0,
+      "discount_percentage": 14.71,
+      "color": "Orange",
+      "occasion": "Festive",
+      "fabric_weight": "Medium",
+      "border_style": "Brocade Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": false,
+      "is_best_seller": true,
+      "is_editor_pick": false,
+      "variants": [
+        {
+          "id": "01a13939-94a7-744b-bb9f-1a633c7cada7",
+          "product_id": "01a0f32e-c878-75f9-8780-545eb62a494a",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-ORA-106",
+          "price": 14500.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94a6-7005-9c7d-167b22109dfd",
+          "product_id": "01a0f32e-c878-75f9-8780-545eb62a494a",
+          "image_url": "/products/01a0f32e-c878-75f9-8780-545eb62a494a/041e68c5-22a7-45f5-8ac9-1d7a903efe02.png",
+          "alt_text": "Samyuktha Sunset Rust Brocade - View 1",
+          "display_order": 0,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "01a0f6d9-bda9-7f9a-82a3-f073f2356846",
+      "name": "Vaidehi Regal Purple Kanjivaram",
+      "description": "Vaidehi Regal Purple Kanjivaram is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for wedding celebrations and cherished wedding rituals.",
+      "category_id": "01a101c0-55ca-7a9b-92c9-d159f9256093",
+      "price": 24500.0,
+      "mrp": 29000.0,
+      "discount_percentage": 15.52,
+      "color": "Purple",
+      "occasion": "Wedding",
+      "fabric_weight": "Heavy",
+      "border_style": "Contrast Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": true,
+      "is_best_seller": false,
+      "is_editor_pick": true,
+      "variants": [
+        {
+          "id": "01a13939-94a9-70b7-8351-120cad2e67d0",
+          "product_id": "01a0f6d9-bda9-7f9a-82a3-f073f2356846",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-PUR-107",
+          "price": 24500.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94a8-754e-9622-3b6491faae7e",
+          "product_id": "01a0f6d9-bda9-7f9a-82a3-f073f2356846",
+          "image_url": "/products/01a0f6d9-bda9-7f9a-82a3-f073f2356846/7cb74fde-646a-4472-b3e4-2d13f71a1858.jpg",
+          "alt_text": "Vaidehi Regal Purple Kanjivaram - View 1",
+          "display_order": 0,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "01a0fc1e-8425-7815-b7b5-c1b75a3704b5",
+      "name": "Radhika Butter Yellow Banarasi",
+      "description": "Radhika Butter Yellow Banarasi is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for festive celebrations and cherished wedding rituals.",
+      "category_id": "01a101c6-43ea-7fe3-8a2a-c8bdf89cf4b5",
+      "price": 15800.0,
+      "mrp": 18500.0,
+      "discount_percentage": 14.59,
+      "color": "Yellow",
+      "occasion": "Festive",
+      "fabric_weight": "Medium",
+      "border_style": "Floral Zari Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": false,
+      "is_best_seller": true,
+      "is_editor_pick": false,
+      "variants": [
+        {
+          "id": "01a13939-94ac-7a7b-8176-08d53bfd35c4",
+          "product_id": "01a0fc1e-8425-7815-b7b5-c1b75a3704b5",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-YEL-108",
+          "price": 15800.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94ab-7760-b8cf-2cc17f7d4700",
+          "product_id": "01a0fc1e-8425-7815-b7b5-c1b75a3704b5",
+          "image_url": "/products/01a0fc1e-8425-7815-b7b5-c1b75a3704b5/0cee72e2-f6a4-4ecb-9543-8d6ee5fdcfdc.png",
+          "alt_text": "Radhika Butter Yellow Banarasi - View 1",
+          "display_order": 0,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "01a0fc84-33dd-7a6e-8dc3-2041b552d85f",
+      "name": "Kaveri Coral Blossom Soft Silk",
+      "description": "Kaveri Coral Blossom Soft Silk is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for party celebrations and cherished wedding rituals.",
+      "category_id": "01a101d1-7a39-70ae-8994-fa4cbd865a2c",
+      "price": 10500.0,
+      "mrp": 13000.0,
+      "discount_percentage": 19.23,
+      "color": "Pink",
+      "occasion": "Party",
+      "fabric_weight": "Lightweight",
+      "border_style": "Zari Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": true,
+      "is_best_seller": false,
+      "is_editor_pick": false,
+      "variants": [
+        {
+          "id": "01a13939-94ae-72f6-b2d5-ac693deff415",
+          "product_id": "01a0fc84-33dd-7a6e-8dc3-2041b552d85f",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-PIN-109",
+          "price": 10500.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94ad-70a5-9968-1fa6eb3ff0fe",
+          "product_id": "01a0fc84-33dd-7a6e-8dc3-2041b552d85f",
+          "image_url": "/products/01a0fc84-33dd-7a6e-8dc3-2041b552d85f/e4487fd1-9970-46f0-b179-acffe95ca919.jpg",
+          "alt_text": "Kaveri Coral Blossom Soft Silk - View 1",
+          "display_order": 0,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "01a101bb-b3a9-70de-8f2f-b93f1d39ac67",
+      "name": "Devika Maroon Heirloom Silk",
+      "description": "Devika Maroon Heirloom Silk is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for wedding celebrations and cherished wedding rituals.",
+      "category_id": "01a0e72e-2057-7d19-812e-85554cb643ef",
+      "price": 26000.0,
+      "mrp": 31000.0,
+      "discount_percentage": 16.13,
+      "color": "Maroon",
+      "occasion": "Wedding",
+      "fabric_weight": "Heavy",
+      "border_style": "Mayil Motifs Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": false,
+      "is_best_seller": true,
+      "is_editor_pick": true,
+      "variants": [
+        {
+          "id": "01a13939-94b2-73c3-b638-3e3f8c374231",
+          "product_id": "01a101bb-b3a9-70de-8f2f-b93f1d39ac67",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-MAR-110",
+          "price": 26000.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94b0-707c-b956-a00d5980b310",
+          "product_id": "01a101bb-b3a9-70de-8f2f-b93f1d39ac67",
+          "image_url": "/products/01a101bb-b3a9-70de-8f2f-b93f1d39ac67/a869f244-a43c-427a-841e-47fc141669e7.jpg",
+          "alt_text": "Devika Maroon Heirloom Silk - View 1",
+          "display_order": 0,
+          "is_primary": true
+        },
+        {
+          "id": "01a13939-94b1-7b44-85e9-f590ace0c9c5",
+          "product_id": "01a101bb-b3a9-70de-8f2f-b93f1d39ac67",
+          "image_url": "/products/01a101bb-b3a9-70de-8f2f-b93f1d39ac67/e13a1ee6-e944-44fb-9a88-0346e4f97fed.jpg",
+          "alt_text": "Devika Maroon Heirloom Silk - View 2",
+          "display_order": 1,
+          "is_primary": false
+        }
+      ]
+    },
+    {
+      "id": "01a101bd-8d56-7bda-8282-17f8ee02dd16",
+      "name": "Shambhavi Turquoise Pure Silk",
+      "description": "Shambhavi Turquoise Pure Silk is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for festive celebrations and cherished wedding rituals.",
+      "category_id": "01a0f0c8-185a-7b48-88b1-142cd8177fc4",
+      "price": 17200.0,
+      "mrp": 20500.0,
+      "discount_percentage": 16.1,
+      "color": "Turquoise",
+      "occasion": "Festive",
+      "fabric_weight": "Medium",
+      "border_style": "Temple Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": true,
+      "is_best_seller": false,
+      "is_editor_pick": false,
+      "variants": [
+        {
+          "id": "01a13939-94b4-7324-87f7-473d24632b17",
+          "product_id": "01a101bd-8d56-7bda-8282-17f8ee02dd16",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-TUR-111",
+          "price": 17200.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94b3-7364-beb6-08b69ee838f2",
+          "product_id": "01a101bd-8d56-7bda-8282-17f8ee02dd16",
+          "image_url": "/products/01a101bd-8d56-7bda-8282-17f8ee02dd16/201c844f-158f-4a15-a359-f0e6b7bba851.jpg",
+          "alt_text": "Shambhavi Turquoise Pure Silk - View 1",
+          "display_order": 0,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "01a101c1-91ae-74e7-9cf8-40bd02c6c215",
+      "name": "Padmini Vermillion Kanchipuram",
+      "description": "Padmini Vermillion Kanchipuram is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for wedding celebrations and cherished wedding rituals.",
+      "category_id": "01a0f0c8-5505-76d4-a217-f42e0d353641",
+      "price": 27500.0,
+      "mrp": 33000.0,
+      "discount_percentage": 16.67,
+      "color": "Red",
+      "occasion": "Wedding",
+      "fabric_weight": "Heavy",
+      "border_style": "Solid Gold Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": true,
+      "is_best_seller": true,
+      "is_editor_pick": true,
+      "variants": [
+        {
+          "id": "01a13939-94bc-7130-b36b-15ce12944e2c",
+          "product_id": "01a101c1-91ae-74e7-9cf8-40bd02c6c215",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-RED-112",
+          "price": 27500.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94b6-7989-8af2-147fb2e369e2",
+          "product_id": "01a101c1-91ae-74e7-9cf8-40bd02c6c215",
+          "image_url": "/products/01a101c1-91ae-74e7-9cf8-40bd02c6c215/216eaef6-786b-4830-a06b-bbb42f486985.png",
+          "alt_text": "Padmini Vermillion Kanchipuram - View 1",
+          "display_order": 0,
+          "is_primary": true
+        },
+        {
+          "id": "01a13939-94b7-7d26-ac0a-a3dea8ddf690",
+          "product_id": "01a101c1-91ae-74e7-9cf8-40bd02c6c215",
+          "image_url": "/products/01a101c1-91ae-74e7-9cf8-40bd02c6c215/49104733-9a47-4dbc-a000-b78e73e97431.png",
+          "alt_text": "Padmini Vermillion Kanchipuram - View 2",
+          "display_order": 1,
+          "is_primary": false
+        },
+        {
+          "id": "01a13939-94b8-7e6c-a905-2c6fb5adb074",
+          "product_id": "01a101c1-91ae-74e7-9cf8-40bd02c6c215",
+          "image_url": "/products/01a101c1-91ae-74e7-9cf8-40bd02c6c215/74e1a5e4-cfc2-45d4-8027-d113bb348d25.png",
+          "alt_text": "Padmini Vermillion Kanchipuram - View 3",
+          "display_order": 2,
+          "is_primary": false
+        },
+        {
+          "id": "01a13939-94b9-7f9a-92f5-acd3ae63f42b",
+          "product_id": "01a101c1-91ae-74e7-9cf8-40bd02c6c215",
+          "image_url": "/products/01a101c1-91ae-74e7-9cf8-40bd02c6c215/82df1f3e-017b-4c86-8051-f09ca2de140a.png",
+          "alt_text": "Padmini Vermillion Kanchipuram - View 4",
+          "display_order": 3,
+          "is_primary": false
+        },
+        {
+          "id": "01a13939-94ba-7984-b8b7-8ed7f73dd3dc",
+          "product_id": "01a101c1-91ae-74e7-9cf8-40bd02c6c215",
+          "image_url": "/products/01a101c1-91ae-74e7-9cf8-40bd02c6c215/aa46f0d7-a9f4-4737-b3cc-716e4716779c.png",
+          "alt_text": "Padmini Vermillion Kanchipuram - View 5",
+          "display_order": 4,
+          "is_primary": false
+        },
+        {
+          "id": "01a13939-94bb-79d9-aa4e-680a9102b126",
+          "product_id": "01a101c1-91ae-74e7-9cf8-40bd02c6c215",
+          "image_url": "/products/01a101c1-91ae-74e7-9cf8-40bd02c6c215/c1e4db63-c750-48ae-8143-73ea4d1a66bd.jpg",
+          "alt_text": "Padmini Vermillion Kanchipuram - View 6",
+          "display_order": 5,
+          "is_primary": false
+        }
+      ]
+    },
+    {
+      "id": "01a101c2-9b52-7a33-b619-e203b63697d8",
+      "name": "Ishwarya Olive Green Brocade",
+      "description": "Ishwarya Olive Green Brocade is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for festive celebrations and cherished wedding rituals.",
+      "category_id": "01a0f0c8-7b16-77c9-bfa2-3f504c70d54e",
+      "price": 13900.0,
+      "mrp": 16500.0,
+      "discount_percentage": 15.76,
+      "color": "Green",
+      "occasion": "Festive",
+      "fabric_weight": "Medium",
+      "border_style": "Antique Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": false,
+      "is_best_seller": false,
+      "is_editor_pick": false,
+      "variants": [
+        {
+          "id": "01a13939-94be-70cd-baeb-ad3f85235c92",
+          "product_id": "01a101c2-9b52-7a33-b619-e203b63697d8",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-GRE-113",
+          "price": 13900.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94bd-7977-9fc8-d98dec33c9b2",
+          "product_id": "01a101c2-9b52-7a33-b619-e203b63697d8",
+          "image_url": "/products/01a101c2-9b52-7a33-b619-e203b63697d8/e9032450-5087-4169-94c0-41e5eb33375a.jpg",
+          "alt_text": "Ishwarya Olive Green Brocade - View 1",
+          "display_order": 0,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "01a101c3-b716-7db9-b7db-8121e6ecbffe",
+      "name": "Bhairavi Deep Magenta Kanjivaram",
+      "description": "Bhairavi Deep Magenta Kanjivaram is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for wedding celebrations and cherished wedding rituals.",
+      "category_id": "01a0f17a-390d-740b-ad8d-fbc144575eb1",
+      "price": 22800.0,
+      "mrp": 27000.0,
+      "discount_percentage": 15.56,
+      "color": "Magenta",
+      "occasion": "Wedding",
+      "fabric_weight": "Heavy",
+      "border_style": "Zari Rettai Pettu Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": true,
+      "is_best_seller": true,
+      "is_editor_pick": false,
+      "variants": [
+        {
+          "id": "01a13939-94c1-74d9-87bc-26f64229c26d",
+          "product_id": "01a101c3-b716-7db9-b7db-8121e6ecbffe",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-MAG-114",
+          "price": 22800.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94bf-713c-8aa2-79e8ea0d68b4",
+          "product_id": "01a101c3-b716-7db9-b7db-8121e6ecbffe",
+          "image_url": "/products/01a101c3-b716-7db9-b7db-8121e6ecbffe/5d7556d4-8b19-4a03-b6bb-ed7bcf66e8bf.jpg",
+          "alt_text": "Bhairavi Deep Magenta Kanjivaram - View 1",
+          "display_order": 0,
+          "is_primary": true
+        },
+        {
+          "id": "01a13939-94c0-7374-a4ca-496f6d90f451",
+          "product_id": "01a101c3-b716-7db9-b7db-8121e6ecbffe",
+          "image_url": "/products/01a101c3-b716-7db9-b7db-8121e6ecbffe/a4b5d6be-fe24-493d-82d6-b82d0e5e0efe.jpg",
+          "alt_text": "Bhairavi Deep Magenta Kanjivaram - View 2",
+          "display_order": 1,
+          "is_primary": false
+        }
+      ]
+    },
+    {
+      "id": "01a101c5-5573-7a78-8bc3-a72c6a60c0c4",
+      "name": "Charulata Lilac Whispers Silk",
+      "description": "Charulata Lilac Whispers Silk is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for party celebrations and cherished wedding rituals.",
+      "category_id": "01a0fc15-f9f8-731c-b4e0-927f766da3b3",
+      "price": 11200.0,
+      "mrp": 13500.0,
+      "discount_percentage": 17.04,
+      "color": "Lilac",
+      "occasion": "Party",
+      "fabric_weight": "Lightweight",
+      "border_style": "Silver Zari Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": false,
+      "is_best_seller": true,
+      "is_editor_pick": false,
+      "variants": [
+        {
+          "id": "01a13939-94c3-7337-97f8-9d8e42f0dc1c",
+          "product_id": "01a101c5-5573-7a78-8bc3-a72c6a60c0c4",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-LIL-115",
+          "price": 11200.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94c2-73de-8dd5-b2eb4132c458",
+          "product_id": "01a101c5-5573-7a78-8bc3-a72c6a60c0c4",
+          "image_url": "/products/01a101c5-5573-7a78-8bc3-a72c6a60c0c4/3d20a9e7-2f3c-41b3-9cdf-af3f27aa7bda.jpg",
+          "alt_text": "Charulata Lilac Whispers Silk - View 1",
+          "display_order": 0,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "01a101c7-8de6-7395-9af7-4708b8e4ca63",
+      "name": "Rukmini Copper Bronze Banarasi",
+      "description": "Rukmini Copper Bronze Banarasi is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for reception celebrations and cherished wedding rituals.",
+      "category_id": "01a101c0-55ca-7a9b-92c9-d159f9256093",
+      "price": 18900.0,
+      "mrp": 23000.0,
+      "discount_percentage": 17.83,
+      "color": "Bronze",
+      "occasion": "Reception",
+      "fabric_weight": "Medium",
+      "border_style": "Kadhwa Weave Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": true,
+      "is_best_seller": false,
+      "is_editor_pick": true,
+      "variants": [
+        {
+          "id": "01a13939-94c5-7d00-bd85-9d4f5bb57b06",
+          "product_id": "01a101c7-8de6-7395-9af7-4708b8e4ca63",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-BRO-116",
+          "price": 18900.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94c4-7e73-a2b1-c15d99f69684",
+          "product_id": "01a101c7-8de6-7395-9af7-4708b8e4ca63",
+          "image_url": "/products/01a101c7-8de6-7395-9af7-4708b8e4ca63/b0480e43-3ef8-4864-bb00-cbab321586d2.png",
+          "alt_text": "Rukmini Copper Bronze Banarasi - View 1",
+          "display_order": 0,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "01a101c9-d7d5-73a6-9953-633bb6c34e91",
+      "name": "Veda Forest Green Handloom",
+      "description": "Veda Forest Green Handloom is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for wedding celebrations and cherished wedding rituals.",
+      "category_id": "01a101c6-43ea-7fe3-8a2a-c8bdf89cf4b5",
+      "price": 19800.0,
+      "mrp": 24000.0,
+      "discount_percentage": 17.5,
+      "color": "Green",
+      "occasion": "Wedding",
+      "fabric_weight": "Heavy",
+      "border_style": "Rudraksha Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": false,
+      "is_best_seller": true,
+      "is_editor_pick": false,
+      "variants": [
+        {
+          "id": "01a13939-94c7-715d-8e99-1e27a7ad56aa",
+          "product_id": "01a101c9-d7d5-73a6-9953-633bb6c34e91",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-GRE-117",
+          "price": 19800.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94c6-71b6-9cd6-1a5db63b9501",
+          "product_id": "01a101c9-d7d5-73a6-9953-633bb6c34e91",
+          "image_url": "/products/01a101c9-d7d5-73a6-9953-633bb6c34e91/ea58eabe-348e-4fef-8c2e-76cc9c5f1b03.jpg",
+          "alt_text": "Veda Forest Green Handloom - View 1",
+          "display_order": 0,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "01a101cb-49a4-706e-9f60-346db4777a45",
+      "name": "Mythili Peach Dawn Soft Silk",
+      "description": "Mythili Peach Dawn Soft Silk is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for festive celebrations and cherished wedding rituals.",
+      "category_id": "01a101d1-7a39-70ae-8994-fa4cbd865a2c",
+      "price": 9400.0,
+      "mrp": 11500.0,
+      "discount_percentage": 18.26,
+      "color": "Peach",
+      "occasion": "Festive",
+      "fabric_weight": "Lightweight",
+      "border_style": "Contrast Zari Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": true,
+      "is_best_seller": false,
+      "is_editor_pick": false,
+      "variants": [
+        {
+          "id": "01a13939-94c9-7b1e-a45c-15ab09cb3a64",
+          "product_id": "01a101cb-49a4-706e-9f60-346db4777a45",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-PEA-118",
+          "price": 9400.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94c8-7d75-9e51-4af2d49a55d5",
+          "product_id": "01a101cb-49a4-706e-9f60-346db4777a45",
+          "image_url": "/products/01a101cb-49a4-706e-9f60-346db4777a45/e3a8a343-5fa2-493c-b8d3-50bc2cd4aeea.jpg",
+          "alt_text": "Mythili Peach Dawn Soft Silk - View 1",
+          "display_order": 0,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "01a101cc-4ae6-77c9-997f-4d46bdbea8db",
+      "name": "Janaki Royal Scarlet Bridal Saree",
+      "description": "Janaki Royal Scarlet Bridal Saree is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for wedding celebrations and cherished wedding rituals.",
+      "category_id": "01a0e72e-2057-7d19-812e-85554cb643ef",
+      "price": 29500.0,
+      "mrp": 36000.0,
+      "discount_percentage": 18.06,
+      "color": "Red",
+      "occasion": "Wedding",
+      "fabric_weight": "Heavy",
+      "border_style": "Grand Korvai Zari Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": true,
+      "is_best_seller": true,
+      "is_editor_pick": true,
+      "variants": [
+        {
+          "id": "01a13939-94ce-7b7a-8613-3d6aafa86e12",
+          "product_id": "01a101cc-4ae6-77c9-997f-4d46bdbea8db",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-RED-119",
+          "price": 29500.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94cb-757e-8583-247dcc2ba412",
+          "product_id": "01a101cc-4ae6-77c9-997f-4d46bdbea8db",
+          "image_url": "/products/01a101cc-4ae6-77c9-997f-4d46bdbea8db/1e27382f-052b-40e1-a810-6d62a963897c.jpg",
+          "alt_text": "Janaki Royal Scarlet Bridal Saree - View 1",
+          "display_order": 0,
+          "is_primary": true
+        },
+        {
+          "id": "01a13939-94cc-73dc-b38b-ac0bd53dc1e5",
+          "product_id": "01a101cc-4ae6-77c9-997f-4d46bdbea8db",
+          "image_url": "/products/01a101cc-4ae6-77c9-997f-4d46bdbea8db/98daca93-9b84-4c14-b862-35aaac8435d4.jpg",
+          "alt_text": "Janaki Royal Scarlet Bridal Saree - View 2",
+          "display_order": 1,
+          "is_primary": false
+        },
+        {
+          "id": "01a13939-94cd-79cd-aac3-5ac95c9bc9e4",
+          "product_id": "01a101cc-4ae6-77c9-997f-4d46bdbea8db",
+          "image_url": "/products/01a101cc-4ae6-77c9-997f-4d46bdbea8db/fb6e22bc-3f7c-4d21-87b7-7b967593b8c7.jpg",
+          "alt_text": "Janaki Royal Scarlet Bridal Saree - View 3",
+          "display_order": 2,
+          "is_primary": false
+        }
+      ]
+    },
+    {
+      "id": "01a101cd-52ed-7b83-bdd4-cc42cbd9cfcc",
+      "name": "Tanvi Champagne Gold Silk",
+      "description": "Tanvi Champagne Gold Silk is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for reception celebrations and cherished wedding rituals.",
+      "category_id": "01a0f0c8-185a-7b48-88b1-142cd8177fc4",
+      "price": 17500.0,
+      "mrp": 21000.0,
+      "discount_percentage": 16.67,
+      "color": "Gold",
+      "occasion": "Reception",
+      "fabric_weight": "Medium",
+      "border_style": "Tissue Silk Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": false,
+      "is_best_seller": true,
+      "is_editor_pick": false,
+      "variants": [
+        {
+          "id": "01a13939-94d0-7527-b757-5cc584db2fda",
+          "product_id": "01a101cd-52ed-7b83-bdd4-cc42cbd9cfcc",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-GOL-120",
+          "price": 17500.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94cf-7b4c-8de4-a22b5aee69a3",
+          "product_id": "01a101cd-52ed-7b83-bdd4-cc42cbd9cfcc",
+          "image_url": "/products/01a101cd-52ed-7b83-bdd4-cc42cbd9cfcc/80328ba9-c98c-413e-843e-3ca07adc8366.jpg",
+          "alt_text": "Tanvi Champagne Gold Silk - View 1",
+          "display_order": 0,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "01a101cf-25a8-709a-80c0-4ea3482d5749",
+      "name": "Aaradhya Crimson Kanchipuram",
+      "description": "Aaradhya Crimson Kanchipuram is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for wedding celebrations and cherished wedding rituals.",
+      "category_id": "01a0f0c8-5505-76d4-a217-f42e0d353641",
+      "price": 18500.0,
+      "mrp": 22000.0,
+      "discount_percentage": 15.91,
+      "color": "Red",
+      "occasion": "Wedding",
+      "fabric_weight": "Heavy",
+      "border_style": "Traditional Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": true,
+      "is_best_seller": false,
+      "is_editor_pick": true,
+      "variants": [
+        {
+          "id": "01a13939-94d6-7cf1-8692-c795dcd28582",
+          "product_id": "01a101cf-25a8-709a-80c0-4ea3482d5749",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-RED-121",
+          "price": 18500.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94d4-7692-827f-ceed2484e455",
+          "product_id": "01a101cf-25a8-709a-80c0-4ea3482d5749",
+          "image_url": "/products/01a101cf-25a8-709a-80c0-4ea3482d5749/7a9ca8fb-1302-4c89-9000-1f7533b56470.jpg",
+          "alt_text": "Aaradhya Crimson Kanchipuram - View 1",
+          "display_order": 0,
+          "is_primary": true
+        },
+        {
+          "id": "01a13939-94d5-79a1-8b06-99a6d365da9f",
+          "product_id": "01a101cf-25a8-709a-80c0-4ea3482d5749",
+          "image_url": "/products/01a101cf-25a8-709a-80c0-4ea3482d5749/f85b9fbe-c048-4035-84b1-dcc7f531ad78.jpg",
+          "alt_text": "Aaradhya Crimson Kanchipuram - View 2",
+          "display_order": 1,
+          "is_primary": false
+        }
+      ]
+    },
+    {
+      "id": "01a101d0-293f-78cc-b53b-2bffcb77a9e7",
+      "name": "Swarna Antique Gold Banarasi",
+      "description": "Swarna Antique Gold Banarasi is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for festive celebrations and cherished wedding rituals.",
+      "category_id": "01a0f0c8-7b16-77c9-bfa2-3f504c70d54e",
+      "price": 16200.0,
+      "mrp": 19500.0,
+      "discount_percentage": 16.92,
+      "color": "Gold",
+      "occasion": "Festive",
+      "fabric_weight": "Medium",
+      "border_style": "Zari Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": false,
+      "is_best_seller": true,
+      "is_editor_pick": false,
+      "variants": [
+        {
+          "id": "01a13939-94da-7b4e-8b29-5875725b04fd",
+          "product_id": "01a101d0-293f-78cc-b53b-2bffcb77a9e7",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-GOL-122",
+          "price": 16200.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94d9-78a8-9c11-eec635815d37",
+          "product_id": "01a101d0-293f-78cc-b53b-2bffcb77a9e7",
+          "image_url": "/products/01a101d0-293f-78cc-b53b-2bffcb77a9e7/c98b5255-063b-4c7e-b4fa-6b756e490e34.jpg",
+          "alt_text": "Swarna Antique Gold Banarasi - View 1",
+          "display_order": 0,
+          "is_primary": true
+        }
+      ]
+    },
+    {
+      "id": "01a101d3-3a96-764c-b365-b617971fc42f",
+      "name": "Ananya Rose Blush Soft Silk",
+      "description": "Ananya Rose Blush Soft Silk is an exquisite handloom creation featuring pure silk warp and weft with authentic zari embellishments. Ideal for festive celebrations and cherished wedding rituals.",
+      "category_id": "01a0f17a-390d-740b-ad8d-fbc144575eb1",
+      "price": 9800.0,
+      "mrp": 12000.0,
+      "discount_percentage": 18.33,
+      "color": "Pink",
+      "occasion": "Festive",
+      "fabric_weight": "Lightweight",
+      "border_style": "Contrast Border",
+      "fabric": "Pure Silk",
+      "weave": "Traditional Handloom",
+      "zari": "Pure Zari",
+      "blouse_included": true,
+      "saree_length": "6.3 metres (including blouse)",
+      "gi_certified": true,
+      "silk_mark_certified": true,
+      "is_active": true,
+      "is_new_arrival": true,
+      "is_best_seller": false,
+      "is_editor_pick": false,
+      "variants": [
+        {
+          "id": "01a13939-94e0-7e49-8de0-c71348318df2",
+          "product_id": "01a101d3-3a96-764c-b365-b617971fc42f",
+          "name": "Free Size / Standard 6.3m",
+          "sku": "DEERA-PIN-123",
+          "price": 9800.0,
+          "stock_quantity": 15,
+          "is_active": true
+        }
+      ],
+      "images": [
+        {
+          "id": "01a13939-94de-7458-9a6b-942252e71d9f",
+          "product_id": "01a101d3-3a96-764c-b365-b617971fc42f",
+          "image_url": "/products/01a101d3-3a96-764c-b365-b617971fc42f/6f02c723-e448-4967-9774-44f94d7fc481.png",
+          "alt_text": "Ananya Rose Blush Soft Silk - View 1",
+          "display_order": 0,
+          "is_primary": true
+        },
+        {
+          "id": "01a13939-94df-73ad-a226-7a564bc87841",
+          "product_id": "01a101d3-3a96-764c-b365-b617971fc42f",
+          "image_url": "/products/01a101d3-3a96-764c-b365-b617971fc42f/bc68a211-51b8-4ecc-8c4e-e6fd1736dfd5.png",
+          "alt_text": "Ananya Rose Blush Soft Silk - View 2",
+          "display_order": 1,
+          "is_primary": false
+        }
+      ]
+    }
+  ],
+  "productImagesMap": {
+    "01a0eb86-29c0-7aa0-8c15-b234fd16fabd": [
+      {
+        "id": "01a13939-948b-7fa9-b810-908af9b01df9",
+        "product_id": "01a0eb86-29c0-7aa0-8c15-b234fd16fabd",
+        "image_url": "/products/01a0eb86-29c0-7aa0-8c15-b234fd16fabd/97eb89ac-acb7-4bdc-bcb3-4d7c4b0ff642.jpg",
+        "alt_text": "Aaradhya Crimson Kanchipuram - View 1",
+        "display_order": 0,
+        "is_primary": true
+      }
+    ],
+    "01a0ec5b-fe9f-7fbf-9e7d-a954d828715c": [
+      {
+        "id": "01a13939-9498-7246-9f9c-a4cedbc789bf",
+        "product_id": "01a0ec5b-fe9f-7fbf-9e7d-a954d828715c",
+        "image_url": "/products/01a0ec5b-fe9f-7fbf-9e7d-a954d828715c/ec1a8983-3862-49e7-8120-7db6b7364358.jpg",
+        "alt_text": "Swarna Antique Gold Banarasi - View 1",
+        "display_order": 0,
+        "is_primary": true
+      }
+    ],
+    "01a0ec5f-3469-70f4-8312-a9837f98fa28": [
+      {
+        "id": "01a13939-949b-7407-b122-620695293812",
+        "product_id": "01a0ec5f-3469-70f4-8312-a9837f98fa28",
+        "image_url": "/products/01a0ec5f-3469-70f4-8312-a9837f98fa28/99e921d3-29bb-4ccb-8482-ace1bf9b33ff.jpg",
+        "alt_text": "Ananya Rose Blush Soft Silk - View 1",
+        "display_order": 0,
+        "is_primary": true
+      }
+    ],
+    "01a0ec6b-a925-759f-a244-9b7cd9b1ac30": [
+      {
+        "id": "01a13939-949e-7d7b-b661-f65fac96fed7",
+        "product_id": "01a0ec6b-a925-759f-a244-9b7cd9b1ac30",
+        "image_url": "/products/01a0ec6b-a925-759f-a244-9b7cd9b1ac30/27ebce11-bfe5-4719-8f76-f4936cb0e7cc.png",
+        "alt_text": "Meenakshi Royal Emerald Silk - View 1",
+        "display_order": 0,
+        "is_primary": true
+      },
+      {
+        "id": "01a13939-949f-7427-b50d-beda4f215ac0",
+        "product_id": "01a0ec6b-a925-759f-a244-9b7cd9b1ac30",
+        "image_url": "/products/01a0ec6b-a925-759f-a244-9b7cd9b1ac30/ca9c94ad-2849-4083-8b19-3e2acbfd4991.jpg",
+        "alt_text": "Meenakshi Royal Emerald Silk - View 2",
+        "display_order": 1,
+        "is_primary": false
+      },
+      {
+        "id": "01a13939-94a0-790d-98e5-96102e03bf43",
+        "product_id": "01a0ec6b-a925-759f-a244-9b7cd9b1ac30",
+        "image_url": "/products/01a0ec6b-a925-759f-a244-9b7cd9b1ac30/e26c3695-3b1f-4c29-98e1-20d79295b5af.jpg",
+        "alt_text": "Meenakshi Royal Emerald Silk - View 3",
+        "display_order": 2,
+        "is_primary": false
+      }
+    ],
+    "01a0f1e9-5a6a-70f6-831f-7d25d7dfd4d0": [
+      {
+        "id": "01a13939-94a2-7654-b6f7-0d45a0efe19b",
+        "product_id": "01a0f1e9-5a6a-70f6-831f-7d25d7dfd4d0",
+        "image_url": "/products/01a0f1e9-5a6a-70f6-831f-7d25d7dfd4d0/5f005b1f-3218-4d24-a963-16227ed9431b.png",
+        "alt_text": "Nandini Midnight Peacock Silk - View 1",
+        "display_order": 0,
+        "is_primary": true
+      },
+      {
+        "id": "01a13939-94a3-732a-9fe2-681f2c80eda9",
+        "product_id": "01a0f1e9-5a6a-70f6-831f-7d25d7dfd4d0",
+        "image_url": "/products/01a0f1e9-5a6a-70f6-831f-7d25d7dfd4d0/73ec2a0a-7db0-4e9e-aff6-19b7fa121354.jpg",
+        "alt_text": "Nandini Midnight Peacock Silk - View 2",
+        "display_order": 1,
+        "is_primary": false
+      },
+      {
+        "id": "01a13939-94a4-7eb1-b1f5-024105e709b1",
+        "product_id": "01a0f1e9-5a6a-70f6-831f-7d25d7dfd4d0",
+        "image_url": "/products/01a0f1e9-5a6a-70f6-831f-7d25d7dfd4d0/d7b2a562-71b5-437e-8a0e-5cc0d582f1be.png",
+        "alt_text": "Nandini Midnight Peacock Silk - View 3",
+        "display_order": 2,
+        "is_primary": false
+      }
+    ],
+    "01a0f32e-c878-75f9-8780-545eb62a494a": [
+      {
+        "id": "01a13939-94a6-7005-9c7d-167b22109dfd",
+        "product_id": "01a0f32e-c878-75f9-8780-545eb62a494a",
+        "image_url": "/products/01a0f32e-c878-75f9-8780-545eb62a494a/041e68c5-22a7-45f5-8ac9-1d7a903efe02.png",
+        "alt_text": "Samyuktha Sunset Rust Brocade - View 1",
+        "display_order": 0,
+        "is_primary": true
+      }
+    ],
+    "01a0f6d9-bda9-7f9a-82a3-f073f2356846": [
+      {
+        "id": "01a13939-94a8-754e-9622-3b6491faae7e",
+        "product_id": "01a0f6d9-bda9-7f9a-82a3-f073f2356846",
+        "image_url": "/products/01a0f6d9-bda9-7f9a-82a3-f073f2356846/7cb74fde-646a-4472-b3e4-2d13f71a1858.jpg",
+        "alt_text": "Vaidehi Regal Purple Kanjivaram - View 1",
+        "display_order": 0,
+        "is_primary": true
+      }
+    ],
+    "01a0fc1e-8425-7815-b7b5-c1b75a3704b5": [
+      {
+        "id": "01a13939-94ab-7760-b8cf-2cc17f7d4700",
+        "product_id": "01a0fc1e-8425-7815-b7b5-c1b75a3704b5",
+        "image_url": "/products/01a0fc1e-8425-7815-b7b5-c1b75a3704b5/0cee72e2-f6a4-4ecb-9543-8d6ee5fdcfdc.png",
+        "alt_text": "Radhika Butter Yellow Banarasi - View 1",
+        "display_order": 0,
+        "is_primary": true
+      }
+    ],
+    "01a0fc84-33dd-7a6e-8dc3-2041b552d85f": [
+      {
+        "id": "01a13939-94ad-70a5-9968-1fa6eb3ff0fe",
+        "product_id": "01a0fc84-33dd-7a6e-8dc3-2041b552d85f",
+        "image_url": "/products/01a0fc84-33dd-7a6e-8dc3-2041b552d85f/e4487fd1-9970-46f0-b179-acffe95ca919.jpg",
+        "alt_text": "Kaveri Coral Blossom Soft Silk - View 1",
+        "display_order": 0,
+        "is_primary": true
+      }
+    ],
+    "01a101bb-b3a9-70de-8f2f-b93f1d39ac67": [
+      {
+        "id": "01a13939-94b0-707c-b956-a00d5980b310",
+        "product_id": "01a101bb-b3a9-70de-8f2f-b93f1d39ac67",
+        "image_url": "/products/01a101bb-b3a9-70de-8f2f-b93f1d39ac67/a869f244-a43c-427a-841e-47fc141669e7.jpg",
+        "alt_text": "Devika Maroon Heirloom Silk - View 1",
+        "display_order": 0,
+        "is_primary": true
+      },
+      {
+        "id": "01a13939-94b1-7b44-85e9-f590ace0c9c5",
+        "product_id": "01a101bb-b3a9-70de-8f2f-b93f1d39ac67",
+        "image_url": "/products/01a101bb-b3a9-70de-8f2f-b93f1d39ac67/e13a1ee6-e944-44fb-9a88-0346e4f97fed.jpg",
+        "alt_text": "Devika Maroon Heirloom Silk - View 2",
+        "display_order": 1,
+        "is_primary": false
+      }
+    ],
+    "01a101bd-8d56-7bda-8282-17f8ee02dd16": [
+      {
+        "id": "01a13939-94b3-7364-beb6-08b69ee838f2",
+        "product_id": "01a101bd-8d56-7bda-8282-17f8ee02dd16",
+        "image_url": "/products/01a101bd-8d56-7bda-8282-17f8ee02dd16/201c844f-158f-4a15-a359-f0e6b7bba851.jpg",
+        "alt_text": "Shambhavi Turquoise Pure Silk - View 1",
+        "display_order": 0,
+        "is_primary": true
+      }
+    ],
+    "01a101c1-91ae-74e7-9cf8-40bd02c6c215": [
+      {
+        "id": "01a13939-94b6-7989-8af2-147fb2e369e2",
+        "product_id": "01a101c1-91ae-74e7-9cf8-40bd02c6c215",
+        "image_url": "/products/01a101c1-91ae-74e7-9cf8-40bd02c6c215/216eaef6-786b-4830-a06b-bbb42f486985.png",
+        "alt_text": "Padmini Vermillion Kanchipuram - View 1",
+        "display_order": 0,
+        "is_primary": true
+      },
+      {
+        "id": "01a13939-94b7-7d26-ac0a-a3dea8ddf690",
+        "product_id": "01a101c1-91ae-74e7-9cf8-40bd02c6c215",
+        "image_url": "/products/01a101c1-91ae-74e7-9cf8-40bd02c6c215/49104733-9a47-4dbc-a000-b78e73e97431.png",
+        "alt_text": "Padmini Vermillion Kanchipuram - View 2",
+        "display_order": 1,
+        "is_primary": false
+      },
+      {
+        "id": "01a13939-94b8-7e6c-a905-2c6fb5adb074",
+        "product_id": "01a101c1-91ae-74e7-9cf8-40bd02c6c215",
+        "image_url": "/products/01a101c1-91ae-74e7-9cf8-40bd02c6c215/74e1a5e4-cfc2-45d4-8027-d113bb348d25.png",
+        "alt_text": "Padmini Vermillion Kanchipuram - View 3",
+        "display_order": 2,
+        "is_primary": false
+      },
+      {
+        "id": "01a13939-94b9-7f9a-92f5-acd3ae63f42b",
+        "product_id": "01a101c1-91ae-74e7-9cf8-40bd02c6c215",
+        "image_url": "/products/01a101c1-91ae-74e7-9cf8-40bd02c6c215/82df1f3e-017b-4c86-8051-f09ca2de140a.png",
+        "alt_text": "Padmini Vermillion Kanchipuram - View 4",
+        "display_order": 3,
+        "is_primary": false
+      },
+      {
+        "id": "01a13939-94ba-7984-b8b7-8ed7f73dd3dc",
+        "product_id": "01a101c1-91ae-74e7-9cf8-40bd02c6c215",
+        "image_url": "/products/01a101c1-91ae-74e7-9cf8-40bd02c6c215/aa46f0d7-a9f4-4737-b3cc-716e4716779c.png",
+        "alt_text": "Padmini Vermillion Kanchipuram - View 5",
+        "display_order": 4,
+        "is_primary": false
+      },
+      {
+        "id": "01a13939-94bb-79d9-aa4e-680a9102b126",
+        "product_id": "01a101c1-91ae-74e7-9cf8-40bd02c6c215",
+        "image_url": "/products/01a101c1-91ae-74e7-9cf8-40bd02c6c215/c1e4db63-c750-48ae-8143-73ea4d1a66bd.jpg",
+        "alt_text": "Padmini Vermillion Kanchipuram - View 6",
+        "display_order": 5,
+        "is_primary": false
+      }
+    ],
+    "01a101c2-9b52-7a33-b619-e203b63697d8": [
+      {
+        "id": "01a13939-94bd-7977-9fc8-d98dec33c9b2",
+        "product_id": "01a101c2-9b52-7a33-b619-e203b63697d8",
+        "image_url": "/products/01a101c2-9b52-7a33-b619-e203b63697d8/e9032450-5087-4169-94c0-41e5eb33375a.jpg",
+        "alt_text": "Ishwarya Olive Green Brocade - View 1",
+        "display_order": 0,
+        "is_primary": true
+      }
+    ],
+    "01a101c3-b716-7db9-b7db-8121e6ecbffe": [
+      {
+        "id": "01a13939-94bf-713c-8aa2-79e8ea0d68b4",
+        "product_id": "01a101c3-b716-7db9-b7db-8121e6ecbffe",
+        "image_url": "/products/01a101c3-b716-7db9-b7db-8121e6ecbffe/5d7556d4-8b19-4a03-b6bb-ed7bcf66e8bf.jpg",
+        "alt_text": "Bhairavi Deep Magenta Kanjivaram - View 1",
+        "display_order": 0,
+        "is_primary": true
+      },
+      {
+        "id": "01a13939-94c0-7374-a4ca-496f6d90f451",
+        "product_id": "01a101c3-b716-7db9-b7db-8121e6ecbffe",
+        "image_url": "/products/01a101c3-b716-7db9-b7db-8121e6ecbffe/a4b5d6be-fe24-493d-82d6-b82d0e5e0efe.jpg",
+        "alt_text": "Bhairavi Deep Magenta Kanjivaram - View 2",
+        "display_order": 1,
+        "is_primary": false
+      }
+    ],
+    "01a101c5-5573-7a78-8bc3-a72c6a60c0c4": [
+      {
+        "id": "01a13939-94c2-73de-8dd5-b2eb4132c458",
+        "product_id": "01a101c5-5573-7a78-8bc3-a72c6a60c0c4",
+        "image_url": "/products/01a101c5-5573-7a78-8bc3-a72c6a60c0c4/3d20a9e7-2f3c-41b3-9cdf-af3f27aa7bda.jpg",
+        "alt_text": "Charulata Lilac Whispers Silk - View 1",
+        "display_order": 0,
+        "is_primary": true
+      }
+    ],
+    "01a101c7-8de6-7395-9af7-4708b8e4ca63": [
+      {
+        "id": "01a13939-94c4-7e73-a2b1-c15d99f69684",
+        "product_id": "01a101c7-8de6-7395-9af7-4708b8e4ca63",
+        "image_url": "/products/01a101c7-8de6-7395-9af7-4708b8e4ca63/b0480e43-3ef8-4864-bb00-cbab321586d2.png",
+        "alt_text": "Rukmini Copper Bronze Banarasi - View 1",
+        "display_order": 0,
+        "is_primary": true
+      }
+    ],
+    "01a101c9-d7d5-73a6-9953-633bb6c34e91": [
+      {
+        "id": "01a13939-94c6-71b6-9cd6-1a5db63b9501",
+        "product_id": "01a101c9-d7d5-73a6-9953-633bb6c34e91",
+        "image_url": "/products/01a101c9-d7d5-73a6-9953-633bb6c34e91/ea58eabe-348e-4fef-8c2e-76cc9c5f1b03.jpg",
+        "alt_text": "Veda Forest Green Handloom - View 1",
+        "display_order": 0,
+        "is_primary": true
+      }
+    ],
+    "01a101cb-49a4-706e-9f60-346db4777a45": [
+      {
+        "id": "01a13939-94c8-7d75-9e51-4af2d49a55d5",
+        "product_id": "01a101cb-49a4-706e-9f60-346db4777a45",
+        "image_url": "/products/01a101cb-49a4-706e-9f60-346db4777a45/e3a8a343-5fa2-493c-b8d3-50bc2cd4aeea.jpg",
+        "alt_text": "Mythili Peach Dawn Soft Silk - View 1",
+        "display_order": 0,
+        "is_primary": true
+      }
+    ],
+    "01a101cc-4ae6-77c9-997f-4d46bdbea8db": [
+      {
+        "id": "01a13939-94cb-757e-8583-247dcc2ba412",
+        "product_id": "01a101cc-4ae6-77c9-997f-4d46bdbea8db",
+        "image_url": "/products/01a101cc-4ae6-77c9-997f-4d46bdbea8db/1e27382f-052b-40e1-a810-6d62a963897c.jpg",
+        "alt_text": "Janaki Royal Scarlet Bridal Saree - View 1",
+        "display_order": 0,
+        "is_primary": true
+      },
+      {
+        "id": "01a13939-94cc-73dc-b38b-ac0bd53dc1e5",
+        "product_id": "01a101cc-4ae6-77c9-997f-4d46bdbea8db",
+        "image_url": "/products/01a101cc-4ae6-77c9-997f-4d46bdbea8db/98daca93-9b84-4c14-b862-35aaac8435d4.jpg",
+        "alt_text": "Janaki Royal Scarlet Bridal Saree - View 2",
+        "display_order": 1,
+        "is_primary": false
+      },
+      {
+        "id": "01a13939-94cd-79cd-aac3-5ac95c9bc9e4",
+        "product_id": "01a101cc-4ae6-77c9-997f-4d46bdbea8db",
+        "image_url": "/products/01a101cc-4ae6-77c9-997f-4d46bdbea8db/fb6e22bc-3f7c-4d21-87b7-7b967593b8c7.jpg",
+        "alt_text": "Janaki Royal Scarlet Bridal Saree - View 3",
+        "display_order": 2,
+        "is_primary": false
+      }
+    ],
+    "01a101cd-52ed-7b83-bdd4-cc42cbd9cfcc": [
+      {
+        "id": "01a13939-94cf-7b4c-8de4-a22b5aee69a3",
+        "product_id": "01a101cd-52ed-7b83-bdd4-cc42cbd9cfcc",
+        "image_url": "/products/01a101cd-52ed-7b83-bdd4-cc42cbd9cfcc/80328ba9-c98c-413e-843e-3ca07adc8366.jpg",
+        "alt_text": "Tanvi Champagne Gold Silk - View 1",
+        "display_order": 0,
+        "is_primary": true
+      }
+    ],
+    "01a101cf-25a8-709a-80c0-4ea3482d5749": [
+      {
+        "id": "01a13939-94d4-7692-827f-ceed2484e455",
+        "product_id": "01a101cf-25a8-709a-80c0-4ea3482d5749",
+        "image_url": "/products/01a101cf-25a8-709a-80c0-4ea3482d5749/7a9ca8fb-1302-4c89-9000-1f7533b56470.jpg",
+        "alt_text": "Aaradhya Crimson Kanchipuram - View 1",
+        "display_order": 0,
+        "is_primary": true
+      },
+      {
+        "id": "01a13939-94d5-79a1-8b06-99a6d365da9f",
+        "product_id": "01a101cf-25a8-709a-80c0-4ea3482d5749",
+        "image_url": "/products/01a101cf-25a8-709a-80c0-4ea3482d5749/f85b9fbe-c048-4035-84b1-dcc7f531ad78.jpg",
+        "alt_text": "Aaradhya Crimson Kanchipuram - View 2",
+        "display_order": 1,
+        "is_primary": false
+      }
+    ],
+    "01a101d0-293f-78cc-b53b-2bffcb77a9e7": [
+      {
+        "id": "01a13939-94d9-78a8-9c11-eec635815d37",
+        "product_id": "01a101d0-293f-78cc-b53b-2bffcb77a9e7",
+        "image_url": "/products/01a101d0-293f-78cc-b53b-2bffcb77a9e7/c98b5255-063b-4c7e-b4fa-6b756e490e34.jpg",
+        "alt_text": "Swarna Antique Gold Banarasi - View 1",
+        "display_order": 0,
+        "is_primary": true
+      }
+    ],
+    "01a101d3-3a96-764c-b365-b617971fc42f": [
+      {
+        "id": "01a13939-94de-7458-9a6b-942252e71d9f",
+        "product_id": "01a101d3-3a96-764c-b365-b617971fc42f",
+        "image_url": "/products/01a101d3-3a96-764c-b365-b617971fc42f/6f02c723-e448-4967-9774-44f94d7fc481.png",
+        "alt_text": "Ananya Rose Blush Soft Silk - View 1",
+        "display_order": 0,
+        "is_primary": true
+      },
+      {
+        "id": "01a13939-94df-73ad-a226-7a564bc87841",
+        "product_id": "01a101d3-3a96-764c-b365-b617971fc42f",
+        "image_url": "/products/01a101d3-3a96-764c-b365-b617971fc42f/bc68a211-51b8-4ecc-8c4e-e6fd1736dfd5.png",
+        "alt_text": "Ananya Rose Blush Soft Silk - View 2",
+        "display_order": 1,
+        "is_primary": false
+      }
+    ]
+  }
+}
